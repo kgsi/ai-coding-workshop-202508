@@ -100,7 +100,7 @@ dotFes 2025 Yokohama / Lumilinks こぎそ
 
 ## OpenAI Codex
 
-### 特徴
+## 特徴
 
 - コード生成モデル「OpenAI Codex」APIプライベートβ開始：2021年8月10日。 ￼ ￼
   - エージェント型「Codex」のプレビューは2025年5月16日にリリース
@@ -110,7 +110,7 @@ dotFes 2025 Yokohama / Lumilinks こぎそ
 
 ---
 
-### 強み
+## 強み
 
 - エコシステムが豊富で、マルチプラットフォームで利用可能
 - CursorやVScode用のIDE拡張機能が利用可能、Claude Codeよりも間口広く活用可能
@@ -148,7 +148,7 @@ dotFes 2025 Yokohama / Lumilinks こぎそ
 
 ---
 
-## 価格モデル比較
+# 価格モデル比較
 
 ---
 

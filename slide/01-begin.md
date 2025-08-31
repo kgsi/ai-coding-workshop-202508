@@ -102,3 +102,11 @@ marp: true
 ![bg](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/21/LLMRecIllustration.png)
 
 ---
+
+## 教材ファイル
+
+<img src="./qrcode.png" height="256" width="256">
+
+https://github.com/kgsi/ai-coding-workshop-202508
+
+---
