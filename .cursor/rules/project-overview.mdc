@@ -1,0 +1,32 @@
+# AI コーディングワークショップ プロジェクト概要
+
+## プロジェクトの目的
+
+このリポジトリは、AI を活用してウェブサイトのコーディングを効率的かつ高品質に行うためのワークショップ資料を管理する共同作業スペースです。
+
+## 主要ファイル構成
+
+- [README.md](mdc:README.md) - ワークショップ概要
+- [AGENTS.md](mdc:AGENTS.md) - 詳細な運用ガイドと品質基準
+- [package.json](mdc:package.json) - Prettier依存関係
+- `slide/` - 章立てされたスライド資料（数値プレフィックス付き）
+- `hands-on/` - ハンズオン演習資料（数値プレフィックス付き）
+
+## 基本ルール
+
+- **言語**: 日本語（コード・コマンド・識別子は英語）
+- **フォーマット**: Prettier準拠（`npx prettier -w .`で整形）
+- **ファイル命名**: `NN-title.md`形式（例: `01-begin.md`）
+- **見出し**: 1ファイル1つのH1、セクションはH2から開始
+- **品質基準**: セマンティックHTML、アクセシビリティ、レスポンシブ対応
+
+## 開発ワークフロー
+
+- ブランチ: `feat/slides-<topic>` または `docs/hands-on-<topic>`
+- コミット: Conventional Commits形式
+- 品質チェック: `npx prettier --check .`が通ることを確認
+  description:
+  globs:
+  alwaysApply: true
+
+---
