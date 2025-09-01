@@ -47,7 +47,7 @@ dotFes 2025 Yokohama / Lumilinks こぎそ
 
 ---
 
-## Cursor：AIネイティブIDE
+## Cursor
 
 ### 特徴
 

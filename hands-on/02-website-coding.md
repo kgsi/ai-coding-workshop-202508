@@ -29,7 +29,7 @@
 
 Next.js アプリ雛形（App Router）の雛形を作成します。
 
-```bashs
+```bash
 npx create-next-app@latest workshop-starter-coding --typescript --eslint --app
 ```
 
